@@ -10,5 +10,8 @@
 
 # Estudantes Colaboradores
 - Sofia Lorena
+- Vinicius Santiago
+- Carlos Lucena
+
 - adicione seu nome aqui..
   
